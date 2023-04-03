@@ -16,7 +16,7 @@ class MainActivity2 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main2)
-
+            /* CON GA ME*/
         recyclerView = findViewById(R.id.recycler)
         dhb = DBHelper(this)
         recyclerView.layoutManager = LinearLayoutManager(this)
