@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/Edit"
+            android:icon="@drawable/ic_edit_24"
+            android:title="Edit"/>
+        <item
+            android:title="Delete"
+            android:icon="@drawable/ic_baseline_delete_24"
+            android:id="@+id/Delete"
+            />
+        <item
+            android:title="Add contact"
+            android:icon="@drawable/ic_baseline_save_24"
+            android:id="@+id/AddContact"
+            />
+
+
+
+    </menu>
+

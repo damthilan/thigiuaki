@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Thigk2" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#EAA3BB</item>
+        <item name="colorPrimaryDark">#F19DBA</item>
+        <item name="colorAccent">#EDB7C9</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
